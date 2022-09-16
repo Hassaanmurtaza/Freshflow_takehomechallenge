@@ -1,15 +1,6 @@
-import json
-import os
-import argparse
-#from pathlib import Path
-from time import time as time1
-import time
-import shutil
 import pandas as pd
-# from sqlalchemy import create_engine
 import sqlite3
 import pandas as pd
-# Create your connection.
 
 import flask
 from flask import request, jsonify
